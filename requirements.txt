@@ -1,0 +1,17 @@
+Flask==2.3.2
+imageio==2.22.1
+joblib==1.2.0
+matplotlib==3.7.1
+moviepy==1.0.3
+numpy==1.22.4
+opencv_python==4.7.0.72
+pandas==2.0.0
+Pillow==9.4.0
+Pillow==9.5.0
+PyAutoGUI==0.9.53
+pytesseract==0.3.10
+pytube==12.1.0
+Requests==2.31.0
+scikit_learn==1.2.2
+tqdm==4.62.3
+yfinance==0.2.18
